@@ -21,7 +21,7 @@ development_status:
 
   epic-2: in-progress
   2-1-garden-layout-display: ready-for-dev
-  2-2-plant-a-new-tree: backlog
+  2-2-plant-a-new-tree: ready-for-dev
   epic-2-retrospective: optional
 
   epic-3: backlog
