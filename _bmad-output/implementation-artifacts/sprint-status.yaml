@@ -6,8 +6,8 @@ tracking_system: bmad-file
 story_location: "{implementation_artifacts}"
 
 development_status:
-  epic-1: backlog
-  1-1-story-slug: backlog
+  epic-1: in-progress
+  1-1-story-slug: ready-for-dev
   1-2-story-slug: backlog
   epic-2: backlog
   2-1-story-slug: backlog
