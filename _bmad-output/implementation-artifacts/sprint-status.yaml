@@ -16,7 +16,7 @@ story_location: "{implementation_artifacts}"
 development_status:
   epic-1: in-progress
   1-1-mood-selector-ui: ready-for-dev
-  1-2-mood-history-chart: backlog
+  1-2-mood-history-chart: ready-for-dev
   epic-1-retrospective: optional
 
   epic-2: backlog
