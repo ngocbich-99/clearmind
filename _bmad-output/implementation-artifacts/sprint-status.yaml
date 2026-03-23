@@ -1,5 +1,5 @@
 generated: 2026-03-22
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 project: ClearMind
 project_key: CM
 tracking_system: bmad-file
@@ -12,6 +12,6 @@ development_status:
   epic-2: in-progress
   2-1-story-slug: ready-for-dev
   2-2-story-slug: ready-for-dev
-  epic-3: backlog
-  3-1-story-slug: backlog
+  epic-3: in-progress
+  3-1-story-slug: ready-for-dev
   epic-1-retrospective: optional
